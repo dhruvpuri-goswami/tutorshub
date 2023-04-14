@@ -1,4 +1,4 @@
-Welcome to Tutorshub!
+<h2>Welcome to Tutorshub!</h2>
 
 Tutorshub is an innovative platform designed to support small tuition classes across India that lack the resources to establish their own websites. Our platform provides a cost-effective and user-friendly online mode for these classes, enabling them to manage their students, conduct tests and assessments, and share study materials such as assignments and notes.
 
